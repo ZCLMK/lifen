@@ -1,0 +1,22 @@
+{
+  "name": "shifts",
+  "version": "1.0.0",
+  "description": "Looking for a job? Check out our [open positions](https://www.welcometothejungle.co/companies/lifen/jobs).",
+  "main": "index.js",
+  "nodemonConfig": {
+    "ignore": "*/*.json"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honestica/backend-jobs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/honestica/backend-jobs/issues"
+  },
+  "homepage": "https://github.com/honestica/backend-jobs#readme"
+}
